@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/progressdrone/static/css/main.073c9b0a.css",
+    "main.js": "/progressdrone/static/js/main.12d3bf57.js",
+    "static/js/787.f2e71fd0.chunk.js": "/progressdrone/static/js/787.f2e71fd0.chunk.js",
+    "index.html": "/progressdrone/index.html",
+    "main.073c9b0a.css.map": "/progressdrone/static/css/main.073c9b0a.css.map",
+    "main.12d3bf57.js.map": "/progressdrone/static/js/main.12d3bf57.js.map",
+    "787.f2e71fd0.chunk.js.map": "/progressdrone/static/js/787.f2e71fd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.12d3bf57.js"
+  ]
+}
